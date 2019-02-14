@@ -10,6 +10,13 @@
 .navbar-light .navbar-brand {
     color: white;
 }
+.maNav {
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
 .mainCard {
     padding-top: 3rem;
     padding-bottom: 7rem;
